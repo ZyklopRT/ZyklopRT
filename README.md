@@ -14,9 +14,9 @@ So, there you have it – the legend of Justin, the web developer with a heart o
 
 <h1 align="center">Hi 👋, I'm Justin</h1>
 
-- 🔭 I’m currently working on [GameHub: A VideoGames Libary](https://github.com/ZyklopRT/GameHub/tree/master)
+- 🔭 I’m currently working on an Fitness Tracker App
 
-- 🌱 I’m currently learning **ReactJS, Tanstack Query x Axios, Typescript & more.**
+- 🌱 I’m currently learning **NextJs & becoming a better UI/UX Designer**
   
 - 📫 How to reach me **info@zyklopspace.de**
 
