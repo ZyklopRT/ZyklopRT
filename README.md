@@ -16,7 +16,7 @@ So, there you have it – the legend of Justin, the web developer with a heart o
 
 - 🔭 I’m currently working on an **Fitness Tracker App**
 
-- 🌱 I’m currently learning **NextJs & becoming a better UI/UX Designer**
+- 🌱 I’m currently practicing **NextJs & becoming a better Frontend-Developer**
   
 - 📫 Reach me on **LinkedIn**
 
